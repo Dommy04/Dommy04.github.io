@@ -1,2 +1,2 @@
 # Dommy04.github.io
-Pagina web de digitalización
+Repositorio para digitalización
